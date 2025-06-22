@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Youngtive Banner" />
+  <img src="banner.jpg" alt="Youngtive Banner" />
 </p>
 
 # 🚀 Youngtive
