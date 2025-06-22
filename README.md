@@ -18,7 +18,7 @@ At **Youngtive**, we are a passionate team at the forefront of digital innovatio
 📅 **Established:** March 26, 2024  
 📍 **Location:** Jl. Banjar Baru II No.30 GKB, Sukomulyo, Manyar, Gresik, East Java, 61151  
 📞 **Contact:** 08111440074  
-📧 **Email:** youngtiveciptanusantara@gmail.com || youngtiveciptanusantara1@gmail.com
+📧 **Email:** youngtiveciptanusantara@gmail.com || youngtiveciptanusantara1@gmail.com  
 🌐 **Website:** [https://youngtive.id](https://youngtive.id)
 
 We specialize in:
